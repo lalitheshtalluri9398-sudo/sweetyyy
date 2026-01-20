@@ -13,17 +13,16 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `happiest birthday bangaram,
+  const message = `HAPPIEST BIRTHDAY SWEETYYY <<3,
 
-Your personalized birthday message goes here.
  Ne mida una prema ila matalo chepte tiripoyedi kadu.
  life lo naku dorkadu anukuna prema naku chupinchavu
  alanti nenu epatiki na valla ayinanta ba chuskodaniki 
- try chesta .Life lo nenu evaru ela chusina naku nv 
- epatiki special ee nanna.ilage chala birthdays
+ try chesta .Life lo nenu evaru ela chusina, naku nv 
+ epatiki special ee nanna. Ilage chala birthdays 
  chesukovali aa prati birthhday lo nenu undali ani korukutuna 
  
-      once again Happy Birthday sweetluuu!!! <<3 🎉
+      once again Happy Birthday Sweetluuu!!! <<3 🎉
          with lots of love lalli <<<<3`;
 
   // Handle page transitions
