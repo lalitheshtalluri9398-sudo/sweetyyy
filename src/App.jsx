@@ -100,7 +100,7 @@ function App() {
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">sweetyy's</span>{" "}
+                Counting down to <span className="highlight">Sweetyy's</span>{" "}
                 special day 🎂
               </>
             )}
@@ -171,7 +171,7 @@ function App() {
         <Gallery isActive={currentPage === 4} />
         <section className="final">
           <h2 className="final-message">💖 Forever Yours — lalli  💖</h2>
-          <p className="final-subtitle">I hope i will present for ur every birthday make u fell happier ✨</p>
+          <p className="final-subtitle">I hope i will present for ur every future birthday's ✨</p>
         </section>
       </div>
 
