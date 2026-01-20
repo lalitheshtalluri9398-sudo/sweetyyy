@@ -16,16 +16,15 @@ function MessageCard({ isActive }) {
   const message = `happiest birthday bangaram,
 
 Your personalized birthday message goes here.
-
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
-
-Happy Birthday! 🎉
-
-with lots of love lalli <<<<3`;
+ Ne mida una prema ila matalo chepte tiripoyedi kadu.
+ life lo naku dorkadu anukuna prema naku chupinchavu
+ alanti nenu epatiki na valla ayinanta ba chuskodaniki 
+ try chesta .Life lo nenu evaru ela chusina naku nv 
+ epatiki special ee nanna.ilage chala birthdays
+ chesukovali aa prati birthhday lo nenu undali ani korukutuna 
+ 
+      once again Happy Birthday sweetluuu!!! <<3 🎉
+         with lots of love lalli <<<<3`;
 
   // Handle page transitions
   useEffect(() => {
